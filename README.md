@@ -15,9 +15,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/traffics_signals.png "Traffic Signals"
-[image2]: ./images/bars_training_size.png "Training Size"
-[image3]: ./images/german_traffic_images.png "German traffic images"
+[image1]: ./images/traffics_signals.jpg "Traffic Signals"
+[image2]: ./images/bars_training_size.jpg "Training Size"
+[image3]: ./images/german_traffic_images.jpg "German traffic images"
 [image4]: ./images/German_traffics_predictions.png "Prdicted German traffics signal images"
 ---
 
