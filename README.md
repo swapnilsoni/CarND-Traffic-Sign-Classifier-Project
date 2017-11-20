@@ -19,6 +19,7 @@ The goals / steps of this project are the following:
 [image2]: ./images/bars_training_size.jpg "Training Size"
 [image3]: ./images/german_traffic_images.jpg "German traffic images"
 [image4]: ./images/German_traffics_predictions.png "Prdicted German traffics signal images"
+
 ---
 
 #### 1. Source Code
